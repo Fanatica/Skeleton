@@ -22,8 +22,10 @@
 
 /* #Media Queries
 ================================================== */
-
-	/* Smaller than standard 960 (devices and browsers) */
+	/* Smaller than standard 1200 (browsers) */
+	@media only screen and (max-width: 1199px) {}
+	
+	/* Smaller than 960 (devices and browsers) */
 	@media only screen and (max-width: 959px) {}
 
 	/* Tablet Portrait size to standard 960 (devices and browsers) */
